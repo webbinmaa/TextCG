@@ -1,0 +1,2 @@
+# TextCG
+GNN, text classification
